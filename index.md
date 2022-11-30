@@ -1,5 +1,6 @@
 ---
 layout: default
 ---
-# Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+# Welcome
+
+My name is Matt Younger. I'm a drummer, gamer, and an IT team lead at Indiana University Bloomington.
